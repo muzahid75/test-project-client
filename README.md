@@ -1,3 +1,7 @@
+## .env# .env
+VITE_API_URL=http://localhost:5000/api
+
+
 # 🧠 Daily Mood Tracker
 
 Track your daily moods, view summaries, and maintain emotional streaks!  
